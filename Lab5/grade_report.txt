@@ -1,0 +1,7 @@
+Name	Average	Result
+--------------------
+Alice	89.00	Pass
+Bob	59.00	Fail
+Charlie	78.33	Pass
+Diana	97.67	Pass
+Evan	40.00	Fail
